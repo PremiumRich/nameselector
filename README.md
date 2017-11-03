@@ -1,8 +1,8 @@
 # Random Name Selector
-**SWCHS Comp Sci**
+###### For SWCHS Comp Sci
 
-Download runnable JAR:
-https://github.com/PremiumRich/nameselector/raw/master/out/Random%20Name%20Selector.jar
+## Downloads
+Available from the [releases section](https://github.com/premiumrich/nameselector/releases) of this GitHub repository.
 
-#### Changelog:
-Initial commit
+## Changelog
+**[v1.0](https://github.com/premiumrich/nameselector/releases/tag/v1.0)**
